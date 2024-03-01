@@ -26,8 +26,6 @@ Untuk instalasi silahkan pilih metode berikut
 2. Clone dari repostory (membutuhkan Git yang terinstall di PC anda), dengan cara
     1. jalankan terminal atau command line
     2. jalankan perintah berikut :
-
-    `git clone https://github.com/oyasuryana/AppReservasiHotel`
     
     3. Maka akan terdownload folder 'AppReservasiHotel'
     4. Buat database dengan nama `appReservasiHotel`
@@ -61,13 +59,12 @@ Perbedaan versi PHP yang digunakan akan menyebabkan error, untuk mengantisipasi 
 
 ## Visit My Repository
 
-Blog : https://ozs.web.id
-Subscribe YT channel : https://youtube.com/c/PojokProgrammer
+
 
 ## Buy Me Copy
 Sebagai bentuk dukungan untuk tetap berkarya silahkan yang mau berdonasi mengganti pulsa
 kirik ke
-OVO - 085224191648
+OVO - 085892610768
 
 terima kasih
 
